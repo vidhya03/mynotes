@@ -1,5 +1,9 @@
 # My notes
 
+## 29-October-2019
+  - started scss, installed live sass compiler VS code plugin
+  - Setup projects
+
 ## 28-October-2019
   - After an year , I have started again another 100 days of code.
   - Today I say , I'm back.
