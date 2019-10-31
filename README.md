@@ -1,5 +1,8 @@
 # My notes
 
+## 31-October-2019
+  - Read on kubernetes 
+
 ## 29-October-2019
   - started scss, installed live sass compiler VS code plugin
   - Setup projects
