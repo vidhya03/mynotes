@@ -1,5 +1,8 @@
 # My notes
 
+## 1-November-2019
+- Did some hands on exercise in sass tutorials
+
 ## 31-October-2019
   - Read on kubernetes 
 
