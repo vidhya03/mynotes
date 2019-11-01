@@ -1,5 +1,6 @@
 # My notes
-
+## 2-November-2019
+- Sass tutorial for portfolio 
 ## 1-November-2019
 - Did some hands on exercise in sass tutorials
 
